@@ -1,0 +1,9 @@
+{
+	"loader": "amendments:wall_lantern",
+	"support": {
+		"parent": "amendments:block/wispwillow/wall_willow_lantern_4_template",
+		"textures": {
+			"1": "amendments:block/wall_lanterns/wispwillow/willow_lantern"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+name = "TheGoofyWizards"
+author = "Pablo091213"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d30481070c5834c5e47f73ad3fecf9277788e18cc1d986d28adbe12d0d1f43fc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

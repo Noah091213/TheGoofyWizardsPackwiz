@@ -1,0 +1,13 @@
+name = "Create: Fallout"
+filename = "create_fallout-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sXNWFdw0/versions/pfW1OJ7D/create_fallout-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "dc0a9524c0dee8db0ba8a23c1bb814b7f797a63a1b863878a6fdcaefa5ef0b5926a9c148a9335c0f42a5c3d574f6670eaaad92640b750de56399dcea8c1ec25d"
+
+[update]
+[update.modrinth]
+mod-id = "sXNWFdw0"
+version = "pfW1OJ7D"
