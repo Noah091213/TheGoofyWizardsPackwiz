@@ -1334,7 +1334,7 @@ hash = "e8fada537f0c46c37d67c9a54e962d25c3354bb0e50dbe0a6dcd7afa24027f9e"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "f8159cd49fec4f6faefa98cff420db36861d71bba7aaa0a55c898b860da75f09"
+hash = "cd5298c917ecc5f6da59221aa2540d7c2269fde44c1dd8d43345f94acbda186a"
 
 [[files]]
 file = "config/terrablender.toml"
