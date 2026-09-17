@@ -1,0 +1,13 @@
+name = "Create: Addictives"
+filename = "addictives-3.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ba98c399875ad135bd087fcc37fea9853e1f70c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8845518
+project-id = 1474436

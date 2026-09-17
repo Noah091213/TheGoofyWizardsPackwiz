@@ -8973,6 +8973,11 @@ hash = "8c2a04140a7a731d172abfd2a7fdbc54ae8124aebaf7edc58961220fe38a3d4a"
 metafile = true
 
 [[files]]
+file = "mods/better-library.pw.toml"
+hash = "e4dd3e609e83c723cbcfcc14adca13e4e611afb359e0d5eac8a7b637dad9da66"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -9005,6 +9010,16 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
+
+[[files]]
+file = "mods/cgs.pw.toml"
+hash = "dae8f38fa94bb1ce2108bf60fcce95eed3b5e9a3deb6759093a217e9b192f5ac"
 metafile = true
 
 [[files]]
@@ -9063,6 +9078,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "43e394e100190d49d216c0b646868ac134d3ae82f2361c3bd807ff1b1449c3e0"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
@@ -9083,6 +9103,11 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/create-addictives.pw.toml"
+hash = "913401b97c9d9a4ca415b4ab97439607a55d020654ecd9684c640415d64d7860"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
@@ -9100,6 +9125,11 @@ metafile = true
 [[files]]
 file = "mods/create-ballast.pw.toml"
 hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
+metafile = true
+
+[[files]]
+file = "mods/create-better-motors.pw.toml"
+hash = "fb928ecc6d5804458593bf58736930a517ccf9eabc0de1aa2269fa598dcbe274"
 metafile = true
 
 [[files]]
@@ -9205,6 +9235,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsed.pw.toml"
+hash = "87b469c6273d79fcd3545c954394adf4b04f1ae13330c88aa84252c6576e0863"
 metafile = true
 
 [[files]]
@@ -9660,6 +9695,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
+metafile = true
+
+[[files]]
+file = "mods/ntgl.pw.toml"
+hash = "7932fbacc370edc6fd2577784800fd3d8baf7ceffa7d8ef0ac927ec13a62f16a"
 metafile = true
 
 [[files]]
