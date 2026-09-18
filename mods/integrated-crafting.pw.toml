@@ -1,13 +1,13 @@
 name = " Integrated Crafting"
-filename = "integratedcrafting-1.21.1-neoforge-1.6.0-754.jar"
+filename = "integratedcrafting-1.21.1-neoforge-1.7.1-792.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qwpACdla/versions/9pRZRqH8/integratedcrafting-1.21.1-neoforge-1.6.0-754.jar"
+url = "https://cdn.modrinth.com/data/qwpACdla/versions/OC4hDOmy/integratedcrafting-1.21.1-neoforge-1.7.1-792.jar"
 hash-format = "sha512"
-hash = "6a5165014f86eeb1ec03a4fa7fae68619848ba74d4bca2b4f601a727ede4cdd7a81d6ebc3e4ce5ec115e49621c7a4dcc6ece7470b022c78acdc8a1391b0ed78a"
+hash = "0eddf2a8d8098e37e8708ba7f3db96f63b11951a5a9f580b5267b05780259066aa02bafa2bc22c81ac0256e7e1464b60a0c63b74bc7ffe41694946388f324a50"
 
 [update]
 [update.modrinth]
 mod-id = "qwpACdla"
-version = "9pRZRqH8"
+version = "OC4hDOmy"
