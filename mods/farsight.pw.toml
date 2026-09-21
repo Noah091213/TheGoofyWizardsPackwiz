@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8874976
 project-id = 495693
+
+[option]
+optional = true
+default = true
+description = "Client-side rendering optimization mod. Disable if you experience visual bugs."
