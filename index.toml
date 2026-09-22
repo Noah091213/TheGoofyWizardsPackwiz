@@ -8883,8 +8883,8 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
-file = "mods/adorable-hamster-pets.pw.toml"
-hash = "fd9698b3a981f1be9e64c2ef952a390f53cdd763199d567c6ec51e2b189772ad"
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "0bd11ad5856e558c44060185154083447a3e940b06be350625d862749b9409a0"
 metafile = true
 
 [[files]]
@@ -9005,6 +9005,11 @@ metafile = true
 [[files]]
 file = "mods/big-contraptions.pw.toml"
 hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
+metafile = true
+
+[[files]]
+file = "mods/bigger-ae2.pw.toml"
+hash = "2914bf3088a9ea49bd8442be399a13c5dbe01b9c098c48705fb6dd2a363ff237"
 metafile = true
 
 [[files]]
@@ -9140,11 +9145,6 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
-metafile = true
-
-[[files]]
-file = "mods/create-ars-nouveau-compat.pw.toml"
-hash = "a2ad64c11c1a8a7b0f88ec846907f2f57d54c9fdd7b2410c88f89ff11553583a"
 metafile = true
 
 [[files]]
@@ -9435,11 +9435,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "2b9812e791116d7134dd02678d4993bcadd5fa36fb23b940f8b5f205070f9ea7"
 metafile = true
 
 [[files]]
@@ -9860,6 +9855,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage-mekanism-integration.pw.toml"
 hash = "8e9366d6e9801dba269d9e257b55dca5a30fde277baab160cc59b1841a11efd2"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "dfbd1d91b723a8a4c15065ee9b9ce2e9996dd7d69f6299436a5ab1200211ae76"
 metafile = true
 
 [[files]]
