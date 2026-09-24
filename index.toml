@@ -8958,6 +8958,11 @@ hash = "79b83cf9e61a927c48df33564bcf46f6e4ca861aa79249d2d6d87a99df09a96d"
 metafile = true
 
 [[files]]
+file = "mods/ars-technica.pw.toml"
+hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
@@ -9048,6 +9053,11 @@ hash = "dae8f38fa94bb1ce2108bf60fcce95eed3b5e9a3deb6759093a217e9b192f5ac"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
 metafile = true
@@ -9133,6 +9143,11 @@ hash = "913401b97c9d9a4ca415b4ab97439607a55d020654ecd9684c640415d64d7860"
 metafile = true
 
 [[files]]
+file = "mods/create-aero-radars.pw.toml"
+hash = "4abc8f3793ea18a02038b7587a09949480912f7231c2f696292dcbff78309ca9"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
@@ -9148,11 +9163,6 @@ hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
 metafile = true
 
 [[files]]
-file = "mods/create-ars-nouveau.pw.toml"
-hash = "852c173ed7717c15337ecdbd3fbc3dfd55c52178de2500263ef22d0caf21f87b"
-metafile = true
-
-[[files]]
 file = "mods/create-ballast.pw.toml"
 hash = "a1676d6720ff8a2427aa52eda47d2a51ae5aaaf77ac8b0635978999d0634ec75"
 metafile = true
@@ -9165,6 +9175,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons-advanced-technologies.pw.toml"
 hash = "2de7339944ca4d988001c6cf30e9bf793cce8e18b6519fa3209afa8fb6ee3f94"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-going-ballistic.pw.toml"
+hash = "e019f511fcc01921e7e13f70017b48e41728a2f04369e9c270e02c2cacb384cb"
 metafile = true
 
 [[files]]
@@ -9275,6 +9290,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsed.pw.toml"
 hash = "87b469c6273d79fcd3545c954394adf4b04f1ae13330c88aa84252c6576e0863"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
@@ -9563,6 +9583,16 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/irons-jewelry.pw.toml"
+hash = "42fc720ae8e49004d59c46ee3bfd0579b65048c06a51aa65883b114f71560dde"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "a9cea5a7986f8774ea22f42d7950960276793ae04417789a8772e9ff654db078"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
@@ -9755,6 +9785,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "075f7f59fc5fb819085bda32a70cea764a21dc0f3b5f3a461cd54519b9da27d9"
 metafile = true
 
 [[files]]
