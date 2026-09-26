@@ -8883,6 +8883,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
 file = "mods/ae2-qol-recipes.pw.toml"
 hash = "0bd11ad5856e558c44060185154083447a3e940b06be350625d862749b9409a0"
 metafile = true
@@ -9748,6 +9753,11 @@ hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "dd3830820c683676dd7e37cbbe906f3b1449f9d3825d8fbcfd148766c073eae5"
+metafile = true
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
 metafile = true
@@ -10083,6 +10093,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "e697bd3a78edee29ae0bdfbf3cd4261dcbe4517ffb5ef84851e4cc0abcbda7e1"
 metafile = true
@@ -10100,11 +10115,6 @@ metafile = true
 [[files]]
 file = "mods/wisp-willow.pw.toml"
 hash = "89a8e50c36ca1a8a84b94d3875fae5e10cf0b83828acc06d27b76e9c64b2c116"
-metafile = true
-
-[[files]]
-file = "mods/worn-path.pw.toml"
-hash = "68f65057fac19c2fe39b673f659ffda11980b378eb2b4148e6eacf4584ee4f2e"
 metafile = true
 
 [[files]]
